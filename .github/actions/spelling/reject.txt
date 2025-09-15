@@ -13,6 +13,7 @@ occurences?
 ^devisal
 ^devisor
 ^diables?$
+^immediatly$
 ^oer$
 Sorce
 ^[Ss]pae.*
